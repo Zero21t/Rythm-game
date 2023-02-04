@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(72, 99, 102);
+}
+
+.bW{
+    text-align: center;
+    
+}
+.ASD{
+    text-align: center;
+    
+}
+#outputs{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+#W{
+    width: 100px;  
+    height: 100px;
+    border-color: coral;
+    background-color: chartreuse;
+    border-radius: 15%;
+    margin: 5px;
+}
+#A{
+    width: 100px;  
+    height: 100px;   
+    border-color: coral;
+    background-color: chartreuse;
+    border-radius: 15%;
+}
+#S{
+    width: 100px;  
+    height: 100px;   
+    border-color: coral;
+    background-color: chartreuse;
+    border-radius: 15%;
+}
+#D{
+    width: 100px;  
+    height: 100px;   
+    border-color: coral;
+    background-color: chartreuse;
+    border-radius: 15%;
+}
+#keys{
+    margin-top: 200px;
+}
